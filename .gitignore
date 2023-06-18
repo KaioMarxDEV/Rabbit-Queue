@@ -1,0 +1,18 @@
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.user
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nuget.props
+*.nuget.targets
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
+obj/
+bin/
